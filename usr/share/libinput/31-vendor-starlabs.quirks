@@ -2,5 +2,5 @@
 MatchName=* Touchpad
 MatchUdevType=touchpad
 MatchDMIModalias=dmi:*svnStarLabs*
-AttrEventCodeDisable=BTN_RIGHT
+AttrEventCode=-BTN_RIGHT
 
